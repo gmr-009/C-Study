@@ -14,6 +14,7 @@ void Show_menu()
 		<< endl;
 }
 //ÊäÈëÐÕÃû
+//Ìí¼Ó×¢ÊÍ
 void input_name(Addressbook &abs, int i)
 {
 	string* name = new string;
